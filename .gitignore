@@ -1,8 +1,10 @@
-# Build results
+# Build artifacts
 bin/
 obj/
+**/bin/
+**/obj/
 
-# IDE files
+# IDE settings
 .vs/
 *.user
 *.swp
